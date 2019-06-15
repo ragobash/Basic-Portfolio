@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    height: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+    display: inline-block;
+  }
+
+  .topnav {
+
+  }
+
+  ###GLOBAL STYLE SHEET FOR THE THREE PAGES###
