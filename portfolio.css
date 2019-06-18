@@ -1,0 +1,31 @@
+#info {
+    width: 960px;
+    height: 960px;
+    padding: 20px;
+    margin-top: 50px;
+    margin: 0 auto;
+    background: #ffffff;
+    border: 15px #dddddd;
+    color: #777777;
+  }
+
+.portfolio-images {
+    height: 150px;
+    width: 300px;
+    padding: 20px;
+}
+div.polaroid {
+  width: 25%;
+  background-color: teal;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  color: white;
+  font-family: georgia;
+  float: left;
+  margin: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}

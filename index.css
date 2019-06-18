@@ -1,17 +1,22 @@
-.footer {
-    position: fixed;
-    height: 50px;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: darkgrey;
-    color: white;
-    text-align: center;
-    display: inline-block;
-  }
+#bio-image {
+  float: left;
+  width: 200px;
+  height: 200px;
+  padding: 15px;
+}
 
-  .topnav {
+.info {
+  width: 960px;
+  height: 960px;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+  background: #ffffff;
+  border: 15px #dddddd;
+  color: #777777;
+}
 
-  }
-
-  ###GLOBAL STYLE SHEET FOR THE THREE PAGES###
+.text {
+  color: #777777;
+  padding-left: 15px;
+}
